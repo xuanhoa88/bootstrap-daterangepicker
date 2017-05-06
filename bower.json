@@ -1,8 +1,8 @@
 {
-  "name": "bootstrap-daterangepicker",
+  "name": "llama-bootstrap-daterangepicker",
   "main": [
-    "daterangepicker.js",
-    "daterangepicker.css"
+    "src/daterangepicker.js",
+    "css/daterangepicker.css"
   ],
   "ignore": [
     "**/.*",
